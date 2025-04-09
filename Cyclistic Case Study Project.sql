@@ -1,5 +1,4 @@
 --merging all the tables into one table
---change whole tabel name to annual_trips
 
 
 CREATE TABLE annual_trips AS 
